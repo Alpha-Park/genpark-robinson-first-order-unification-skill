@@ -1,0 +1,14 @@
+{
+  "name": "genpark-robinson-first-order-unification-skill",
+  "version": "1.0.0",
+  "description": "Robinson's first-order term unification algorithm with occurs-check for automated theorem proving, Prolog engines, and type inference.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "robinson-unification",
+    "first-order-logic",
+    "theorem-proving",
+    "prolog",
+    "type-inference"
+  ]
+}
